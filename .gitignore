@@ -1,0 +1,8 @@
+*.*~
+.dub
+
+*.lst
+*.o
+*.so
+
+citytella
