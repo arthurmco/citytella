@@ -4,7 +4,11 @@ Citytella is a city-building game with a network protocol based on P2P
 networking, with a central server only for tunneling the cities
 communications. 
 
+Citytella (and all of its files) are released under the MIT license.
+
 *Much of these features aren't implemented yet.*
+
+(TODO: shall I move the features to the wiki? )
 
 ## Cities
 
