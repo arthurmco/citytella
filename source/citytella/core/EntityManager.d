@@ -44,7 +44,9 @@ public:
 	auto i = 0;
 	foreach(ref Entity ent ; lstEntities) {
 	    if (ent.ID == id) {
+		// hack to make it remove just one
 		lstEntities.linearRemove(lstEntities[i..i+1]);
+		return true;
 	    }
 	    i++;
 	}
