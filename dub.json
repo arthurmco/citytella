@@ -3,4 +3,5 @@
     "description": "A P2P network based city management game",
     "authors": ["Arthur Mendes"],
     "license": "MIT",
+	"targetPath": "build/"
 }
